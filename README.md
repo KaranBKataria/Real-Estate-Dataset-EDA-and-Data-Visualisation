@@ -6,4 +6,4 @@ After producing visualisations/graphs and conducting EDA, here are the following
 
 1) Total property value is highly (linearly) postively correlated to the Sale Price (which is to be expected)
 
-2) Acreage is surprisingly NOT correlated to the Sale Price - a possible explanation for this is that 'Industrial' property type had the largest average acreage of 8.2 (which was 
+2) Acreage is surprisingly NOT correlated to the Sale Price - a possible explanation for this is that 'Industrial' property type had the largest average acreage of 8.3 (which was 4.4x the sum of the average acreage of the other property types) whilst making up less than 
