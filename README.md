@@ -1,8 +1,8 @@
 # Real-Estate-Dataset-EDA-and-Data-Visualisation
 
-The purpose of this repo is to move onto EDA and Data Visualisation now that the Nashville Real Estate dataframe has been cleaned. You can find the cleaning process on the repo titled: ''.
+The purpose of this repo is to move onto EDA and Data Visualisation now that the Nashville Real Estate dataframe has been cleaned. You can find the cleaning process on the repo titled: 'Housing-Dataset-Data-Cleaning'.
 
-After produced visualisations/graphs and conducting EDA, here are the following insights I have gained from the dataset:
+After producing visualisations/graphs and conducting EDA, here are the following insights I have gained about the dataset:
 
 1) Total property value is highly (linearly) postively correlated to the Sale Price (which is to be expected)
 
