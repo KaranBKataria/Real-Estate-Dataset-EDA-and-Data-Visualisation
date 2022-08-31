@@ -4,9 +4,9 @@ The purpose of this repo is to move onto EDA and Data Visualisation now that the
 
 After producing visualisations/graphs and conducting EDA, here are the following insights I have gained about the dataset:
 
-1) 73.9% of all properties were sold for LESS than the total value of the property 
+1) 73.9% of all properties were sold for MORE than the total value of the property and 88.0% were sold for MORE than the total building value
 
-2) Only 26.1% of all properties were sold above their total value
+2) Only 26.1% of all properties were sold BELOW their total value
 
 3) Total property value is highly (linearly) postively correlated to the Sale Price (which is to be expected).
 
